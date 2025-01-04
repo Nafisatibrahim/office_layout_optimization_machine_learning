@@ -1,0 +1,30 @@
+Project Outline
+Title: Optimizing Office Layouts Using Generative Design and Machine Learning
+
+Purpose: 
+	• To design an efficient and data-driven tool that maximizes the number of desks in an office layout while ensuring comfort, accessibility, and compliance with design constraints.
+	• To integrate generative design (Revit Dynamo) and machine learning (Python) into a practical solution for architects and designer to make informed decisions.
+
+Learning Outcome: 
+	• Gain foundational skills in generative design
+	• Learn how to integrate data analysis and machine learning for design optimization
+	• Develop a decision-making tool that visualizes and ranks layouts.
+
+Structure
+	1. Introduction
+		a. Overview of the problem (efficient office layouts)
+		b. Importance of integrating generative design and machine learning.
+	2. Tools and Technologies
+		a. Revit Dynamo (generative design)
+		b. Python (data analysis, data visualization, and machine learning)
+		c. Visualization tools(Power BI or/and Python)
+		d. Other if necessary: Revit API, Scikit-Learn, TensorFlow
+	3. Workflow Breakdown
+		a. Design generation
+		b. Data extraction and preprocessing
+		c. Machine learning analysis and ranking
+		d. Visualization and decision-making
+	4. Evaluation Metrics
+		a. Number of desks
+		b. Accessibility (aisle widths)
+		c. Additional factors like proximity to windows
