@@ -1,0 +1,38 @@
+Step 1: Define the Problem
+	• Specify the office space (room dimensions)
+	• Identify key constraints:
+		○ Desk size
+		○ Minimum aisle widths
+		○ Total available
+Step 2: Generate Designs Using Revit Dynamo
+	1. Input parameters:
+		a. Room dimensions
+		b. Desk size
+		c. Minimum clearances
+	2. Create a Dynamo script to:
+		a. Arrange desks in rows/ columns
+		b. Iterate through various layout options.
+	3. Export results:
+		a. Desk count
+		b. Aisle width
+		c. Design metadata (layout coordinates, etc.) as a CSV file
+Step 3: Analyze Designs Using Python
+	1. Import CSV data into Python
+	2. Define evaluation criteria:
+		a. Maximize desk count
+		b. Ensure adequate aisle spacing
+	3. Build a scoring system:
+		a. Weighted formula (prioritize desk count over other metrics)
+	4. If possible: Use machine learning to train a model that predicts scores based on user feedback.
+Step 4: Visualize and Rank Designs
+	1. Use Power or Python (Matplotlib/ Seaborn) to:
+		a. Visualize layout scores
+		b. Rank layouts by optimality
+	2. Create an interactive dashboard for architects and designers to select the best layout. (interactive dashboard with Python that will include a 3D model viewer)
+
+
+Project Deliverables
+	• Generative Design Script: A Dynamo script that outputs multiple office layouts.
+	• Data Analysis Pipeline: Python scripts for processing design data and applying scoring/ranking models.
+	• Visualization Dashboard: A tool to visualize and compare office layouts.
+Documentation: Clear explanations of the workflow, scripts, and outputs.
