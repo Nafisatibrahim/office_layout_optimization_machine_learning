@@ -3,28 +3,37 @@
 ## **Project Overview**
 This project focuses on the **optimization of office layouts** in Revit by leveraging **Dynamo's Generative Design capabilities** combined with **machine learning** to produce efficient, functional, and aesthetically pleasing designs. The project aims to enhance productivity and usability in office spaces while maintaining compliance with design standards such as clearance between furniture and accessibility requirements.
 
+![Office Layout Example](Images/layout_example.png "Office Layout Example")
+
 ---
 
-## **Key Features**
-1. **Generative Design in Dynamo:**
-   - Automated desk and furniture placement.
-   - Grid-based and randomized object placement methods.
-   - Optimization based on constraints such as spacing, clearance, and room dimensions.
+## Purpose  
+- To design an efficient and data-driven tool that maximizes the number of desks in an office layout while ensuring comfort, accessibility, and compliance with design constraints.
+- To integrate generative design (Revit Dynamo) and machine learning (Python) into a practical solution for architects and designers to make informed decisions.
 
-2. **Machine Learning for Feedback Integration:**
-   - Incorporates historical feedback or user-defined parameters for improved design iterations.
-   - Identifies optimal layouts based on metrics like number of objects placed, clearance maintained, and efficient use of space.
+## Learning Outcome
+- Gain foundational skills in generative design.
+- Learn how to integrate data analysis and machine learning for design optimization.
+- Develop a decision-making tool that visualizes and ranks layouts.
 
-3. **Revit Integration:**
-   - Uses **Revit’s Ceiling and Lighting tools** to enhance visualization.
-   - Automates model preparation, including lighting and furniture arrangement.
-
-4. **Visualization:**
-   - Exported models rendered using tools such as **Vedo**, **Forge Viewer**, and **Python 3D libraries** for interactive exploration.
-   - Displays final results on a web page for stakeholders.
-
-5. **Clash Detection:**
-   - Ensures layouts are free of conflicts by leveraging **Navisworks** for clash detection before finalizing designs.
+## Structure
+1. **Introduction**
+    - Overview of the problem (efficient office layouts).
+    - Importance of integrating generative design and machine learning.
+2. **Tools and Technologies**
+    - Revit Dynamo (generative design).
+    - Python (data analysis, data visualization, and machine learning).
+    - Visualization tools (Power BI or/and Python).
+    - Other if necessary: Revit API, Scikit-Learn, TensorFlow.
+3. **Workflow Breakdown**
+    - Design generation.
+    - Data extraction and preprocessing.
+    - Machine learning analysis and ranking.
+    - Visualization and decision-making.
+4. **Evaluation Metrics**
+    - Number of desks.
+    - Accessibility (aisle widths).
+    - Additional factors like proximity to windows.
 
 ---
 
@@ -43,7 +52,7 @@ This project focuses on the **optimization of office layouts** in Revit by lever
 - Implemented algorithms to balance clearance, functionality, and space utilization.
 
 ### **Step 4: Visualization**
-- Exported models to **FBX/GLTF formats** and visualized in Python using **Vedo**.
+- Exported models to **FBX format** and visualized in Python using **Vedo**.
 - Embedded 3D models on a web page for interactive exploration using **Forge Viewer**.
 
 ### **Step 5: Validation**
