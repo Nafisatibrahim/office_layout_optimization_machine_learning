@@ -24,7 +24,7 @@ plotter.camera.SetPosition([200, 200, 200])  # Adjust camera to start at a custo
 plotter.camera.SetFocalPoint([0, 0, 0])  # Focus on the model
 plotter.camera.SetViewUp([0, 0, 1])  # Set Z-axis as the "up" direction
 
-plotter.export_html("3d_model_viewer.html")
+plotter.export_html("3d_model_viewer.html")  # Export the plot to an HTML file
 
 
 # Enable interactivity (rotate, zoom, pan)
