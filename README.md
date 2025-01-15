@@ -3,7 +3,7 @@
 ## **Project Overview**
 This project focuses on the **optimization of office layouts** in Revit by leveraging **Dynamo's Generative Design capabilities** combined with **machine learning** to produce efficient, functional, and aesthetically pleasing designs. The project aims to enhance productivity and usability in office spaces while maintaining compliance with design standards such as clearance between furniture and accessibility requirements.
 
-![Office Layout Example](Images/layout_example.png "Office Layout Example")
+![Office Layout Example](Images/office-optimization.jpg "Office Layout Example")
 
 ---
 
