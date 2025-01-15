@@ -37,6 +37,19 @@ This project focuses on the **optimization of office layouts** in Revit by lever
 
 ---
 
+# Revit Projects
+
+| Step | Description                             | Image                                                                 |
+|------|-----------------------------------------|-----------------------------------------------------------------------|
+| 1    | Before Dynamo                           | ![Before Dynamo](Revit%20projects/first-attempt-of-office-layout-too-dense.jpg)                 |
+| 2    | Second Attempt - Wrong Coordinates      | ![Second Attempt](Revit%20projects/second-attempt-wrong-coordinates.jpg) |
+| 3    | Fifth Attempt - Sliders and Coordinates Fixed | ![Fifth Attempt](Revit%20projects/third-attempt-cross-prooduct-sliders.jpg) |
+| 4    | Study Running 5-10                      | ![Study Running](Revit%20projects/fourth-attempt-cross-product-slider15.jpg)        |
+| 5    | Layout in Navisworks                    | ![Navisworks](Revit%20projects/fifth-attempt-sliders-and-coordinates-fixed.jpg)  |
+
+
+---
+
 ## **Technologies Used**
 - **Autodesk Revit**: Primary design tool.
 - **Dynamo**: Automation and Generative Design workflows.
