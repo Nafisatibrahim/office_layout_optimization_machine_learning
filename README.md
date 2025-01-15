@@ -45,7 +45,7 @@ This project focuses on the **optimization of office layouts** in Revit by lever
     <td><img src="Revit%20projects/second-attempt-wrong-coordinates.jpg" alt="Second Attempt" width="200"><br>Second Attempt - Wrong Coordinates</td>
     <td><img src="Revit%20projects/third-attempt-cross-product-sliders-off" alt="Fifth Attempt" width="200"><br>Third attempt - Sliders still off</td>
     <td><img src="Revit%20projects/fourth-attempt-cross-product-slider15.jpg" alt="Study Running" width="200"><br>Fourth attempt - With cross product</td>
-    <td><img src="Revit%20projects/fifth-attempt-sliders-and-coordinates-fixed" alt="Navisworks" width="200"><br>Fifth attempt - Sliders and Coordinates set up</td>
+    <td><img src="Revit%20projects/fifth-attempt-sliders-and-coordinates-fixed.jpg" alt="Navisworks" width="200"><br>Fifth attempt - Sliders and Coordinates set up</td>
   </tr>
   <tr>
     <td><img src="Revit%20projects/sisxth-attempt-added-chair-mispositioned.jpg" alt="Layout in Revit" width="200"><br>Sixth attempt - Added chairs</td>
