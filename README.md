@@ -37,30 +37,6 @@ This project focuses on the **optimization of office layouts** in Revit by lever
 
 ---
 
-## **Project Workflow**
-### **Step 1: Model Preparation in Revit**
-- Created office spaces with predefined room separators and layouts.
-- Added essential furniture such as desks, chairs, countertops, sinks, and lighting fixtures.
-
-### **Step 2: Generative Design with Dynamo**
-- Defined constraints (e.g., minimum distances between objects and walls).
-- Set goals such as maximizing the number of objects placed while minimizing overlap.
-- Used Dynamo's **Generative Design** feature to explore multiple layout options.
-
-### **Step 3: Machine Learning Integration**
-- Collected design feedback to train models for predicting optimal layouts.
-- Implemented algorithms to balance clearance, functionality, and space utilization.
-
-### **Step 4: Visualization**
-- Exported models to **FBX format** and visualized in Python using **Vedo**.
-- Embedded 3D models on a web page for interactive exploration using **Forge Viewer**.
-
-### **Step 5: Validation**
-- Performed clash detection using **Navisworks** to ensure practical viability.
-- Incorporated necessary adjustments to resolve issues before finalizing.
-
----
-
 ## **Technologies Used**
 - **Autodesk Revit**: Primary design tool.
 - **Dynamo**: Automation and Generative Design workflows.
@@ -82,19 +58,6 @@ This project focuses on the **optimization of office layouts** in Revit by lever
    - Forge Viewer: Follow [Forge Viewer documentation](https://forge.autodesk.com/en/docs/viewer/v7/).
 
 3. Ensure you have **Revit**, **Navisworks**, and Dynamo installed.
-
-### **Execution**
-1. Open the **Dynamo script** in Revit.
-2. Define input parameters such as:
-   - Room dimensions.
-   - Distance constraints (e.g., 3 feet between desks).
-   - Optimization goals (maximize desks, minimize overlap).
-3. Run the **Generative Design study**.
-4. Export the best layout for further rendering or clash detection.
-
-### **Visualization**
-- Use **Vedo** to render the 3D model in Python.
-- Embed the 3D model on a webpage using Forge Viewer.
 
 ---
 
