@@ -43,7 +43,7 @@ This project focuses on the **optimization of office layouts** in Revit by lever
   <tr>
     <td><img src="Revit%20projects/first-attempt-of-ofice-layout-too-dense.jpg" alt="Before Dynamo" width="200"><br>First attempt - too dense</td>
     <td><img src="Revit%20projects/second-attempt-wrong-coordinates.jpg" alt="Second Attempt" width="200"><br>Second Attempt - Wrong Coordinates</td>
-    <td><img src="Revit%20projects/third-attempt-cross-product-sliders-off" alt="Fifth Attempt" width="200"><br>Third attempt - Sliders still off</td>
+    <td><img src="Revit%20projects/third-attempt-cross-product-sliders-off.jpg" alt="Fifth Attempt" width="200"><br>Third attempt - Sliders still off</td>
     <td><img src="Revit%20projects/fourth-attempt-cross-product-slider15.jpg" alt="Study Running" width="200"><br>Fourth attempt - With cross product</td>
     <td><img src="Revit%20projects/fifth-attempt-sliders-and-coordinates-fixed.jpg" alt="Navisworks" width="200"><br>Fifth attempt - Sliders and Coordinates set up</td>
   </tr>
@@ -51,8 +51,8 @@ This project focuses on the **optimization of office layouts** in Revit by lever
     <td><img src="Revit%20projects/sisxth-attempt-added-chair-mispositioned.jpg" alt="Layout in Revit" width="200"><br>Sixth attempt - Added chairs</td>
     <td><img src="Revit%20projects/seven-attempt-added-chairs-reversed.jpg" alt="Overlap Issue" width="200"><br>Seventh attempt - Added chairs reversed </td>
     <td><img src="Revit%20projects/eight-attempt-chairs-rotation-fixed.jpg" alt="Empty Space" width="200"><br>Eight attempt - Added chairs placed</td>
-    <td><img src="Revit%20projects/study-no-ideal-layout.jpg" alt="No Ideal Layout" width="200"><br>No Ideal Layout</td>
-    <td><img src="Revit%20projects/office-space-navisworks.jpg" alt="Office Space" width="200"><br>Office Space in Navisworks</td>
+    <td><img src="Revit%20projects/dynamo-graph-view.jpg" alt="No Ideal Layout" width="200"><br>Dynamo Graph View</td>
+    <td><img src="Revit%20projects/office-space-navisowrks.jpg" alt="Office Space" width="200"><br>Office Space in Navisworks</td>
   </tr>
 </table>
 
